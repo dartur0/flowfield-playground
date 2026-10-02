@@ -2,7 +2,7 @@
 
 An interactive, ambient generative art application built with **p5.js** and **Vanilla JavaScript**. It explores noise-driven particle flow fields and organic fluid shapes with real-time UI customization and mouse interactivity.
 
-[Live Demo]((https://dartur0.github.io/flowfield-playground/))
+![Live Demo]((https://dartur0.github.io/flowfield-playground/))
 
 ---
 
